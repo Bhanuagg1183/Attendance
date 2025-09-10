@@ -40,7 +40,7 @@ Facial Recognition: OpenCV, dlib, or TensorFlow/PyTorch-based model.
 
 Integration: REST APIs connecting BOLT app to backend services.
 
-### Additional Features (Optional)
+### Additional Features 
 
 Geofencing: Allow marking attendance only within office/class premises.
 
